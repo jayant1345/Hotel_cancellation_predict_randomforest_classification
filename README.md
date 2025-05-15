@@ -25,8 +25,8 @@ It uses the Random Forest algorithm to predict whether a booking will be cancele
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/jayant1345/Hotel_cancellation_predict_randomforest_classification
+cd Hotel_cancellation_predict_randomforest_classification
 ```
 
 2. Create a virtual environment (optional but recommended):
